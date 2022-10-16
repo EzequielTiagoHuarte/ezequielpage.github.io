@@ -1,0 +1,20 @@
+ body, h1{
+    margin: 0px;
+    padding: 0px;
+ }
+ body {
+    background-image: url(../img/Fondo.jpg);
+           }
+.contenedor{
+    width: 400px;
+    background-color: white;
+    margin:50px auto;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 8px;
+  text-align: center;
+}
+.borde{
+    border: 2px solid black;
+    border-radius: 175px;   
+}

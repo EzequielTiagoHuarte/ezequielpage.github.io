@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Rye&display=swap');
+body, h1, h3, h4, ul, li{
+    margin: 0px;
+    padding: 0px;
+ }
+body{
+    background-color:rgb(250, 213, 169);
+  }  
+  h1{
+    color: white;
+  font-family: 'Rye', cursive;
+  font-size: 72px;
+  width: 400px;
+  padding: 20px;
+  text-align: start;
+}
+h3 {
+  color: black;
+  font-family: 'Rye', cursive;
+  font-size: 40px;
+  width: 400px;
+  padding: 20px;
+}
+h4 {
+  color: black;
+  font-family: 'Rye', cursive;
+  font-size: 15px;
+  width: 500px;
+  padding: 15px;
+}
+.contenedor {
+    width: 1080px;
+    background-color: white;
+    margin:50px auto;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.img1{
+background-image: url(../img/portada.jpg);
+opacity: .7;
+height: 750px;
+padding: 20px;
+}
+.pie {
+  color: white;
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+}
+.vinculo {
+  color: yellow;
+}
+.menu {
+  color: yellow;
+  background-color: black;
+}
+.item{
+  display: inline-block;
+  padding: 15px;
+
+}
+.item a{
+  color: yellow;
+  text-decoration: none;
+  padding: 15px;
+
+}
